@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "千本桜",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-23T13:32:45.213489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/01_千本桜_96猫.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/02_千本桜_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "和楽器バンド Wagakki Band",
+      "has_synced": true,
+      "path": "select/03_千本桜_和楽器バンド_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/04_千本桜_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "Wagakkiband",
+      "has_synced": true,
+      "path": "select/05_千本桜_Wagakkiband.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "黒うさP feat.初音ミク",
+      "has_synced": true,
+      "path": "select/06_千本桜_黒うさP_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "KuroUsa",
+      "has_synced": true,
+      "path": "select/07_千本桜_KuroUsa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/08_千本桜_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "千本桜-かめりあ's \"KAIKASENGEN\" Remix-",
+      "artist": "黒うさ",
+      "has_synced": false,
+      "path": "select/09_千本桜-かめりあ's__KAIKASENGEN__Remix-_黒うさ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "和楽器バンド / 千本桜",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/10_和楽器バンド___千本桜_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "「千本桜」ver. WhiteFlame",
+      "artist": "Kuro usa P feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/11_「千本桜」ver._WhiteFlame_Kuro_usa_P_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "まらしぃ",
+      "has_synced": false,
+      "path": "select/12_千本桜_まらしぃ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "千本桜 feat.ぐるたみん(カバー)",
+      "artist": "KuroUsa feat. Glutamine",
+      "has_synced": false,
+      "path": "select/13_千本桜_feat.ぐるたみん(カバー)_KuroUsa_feat._Glutamine.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "「千本桜」ver. ぐるたみん (from album「EXIT TUNES PRESENTS ぐ ～そんなふいんきで歌ってみた～」)",
+      "artist": "Glutamine",
+      "has_synced": false,
+      "path": "select/14_「千本桜」ver._ぐるたみん_(from_album「EXIT_TUNES_PRESENTS_ぐ_~そんなふいんきで歌ってみた~」)_Glutamine.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "千本桜 (recog.ver)",
+      "artist": "recog",
+      "has_synced": false,
+      "path": "select/15_千本桜_(recog.ver)_recog.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "「千本桜」ver. recog (from album「recognize」)",
+      "artist": "recog",
+      "has_synced": false,
+      "path": "select/16_「千本桜」ver._recog_(from_album「recognize」)_recog.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "「千本桜」ver. 和楽器バンド (from album「ボカロ三昧」)",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/17_「千本桜」ver._和楽器バンド_(from_album「ボカロ三昧」)_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "千本桜",
+      "artist": "小林幸子",
+      "has_synced": false,
+      "path": "select/18_千本桜_小林幸子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "千本桜",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_千本桜_Ado.txt"
+    }
+  ]
+}
